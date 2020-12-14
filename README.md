@@ -25,13 +25,15 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-IMAGES
 
-<img width="997" alt="Screen Shot 2020-12-14 at 10 43 30 pm" src="https://user-images.githubusercontent.com/73766339/102077803-f9471d00-3e5d-11eb-854c-235ab5dbef5e.png">
+IMAGES:
+<img width="997" alt="Screen Shot 2020-12-14 at 10 43 30 pm" src="https://user-images.githubusercontent.com/73766339/102080510-ac197a00-3e62-11eb-8817-e3d38cbbd83c.png">
 
-<img width="1403" alt="Screen Shot 2020-12-14 at 10 44 12 pm" src="https://user-images.githubusercontent.com/73766339/102077813-fd733a80-3e5d-11eb-87e8-314ce136d889.png">
+<img width="1403" alt="Screen Shot 2020-12-14 at 10 44 12 pm" src="https://user-images.githubusercontent.com/73766339/102080526-b3d91e80-3e62-11eb-9355-7fe91387ca44.png">
 
-URL:
+
+
+URL:  https://preeya15.github.io/Day-Planner/.
 
 
 
